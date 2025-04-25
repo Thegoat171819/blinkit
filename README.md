@@ -1,2 +1,2 @@
 # blinkit
-get everything in 10 minutes
+get everything in 10 minutes.
